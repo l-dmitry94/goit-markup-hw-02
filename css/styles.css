@@ -77,7 +77,6 @@ body {
 .banner__title {
   color: var(--white);
   font-size: 56px;
-  font-weight: 700;
   text-align: center;
   line-height: 1.07;
   letter-spacing: 0.02em;
@@ -113,7 +112,6 @@ body {
   color: var(--navyblue);
   text-align: center;
   font-size: 36px;
-  font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
@@ -139,7 +137,6 @@ body {
 .item-text {
   color: var(--slate);
   font-size: 16px;
-  font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
